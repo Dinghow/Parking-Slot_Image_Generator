@@ -2,7 +2,7 @@
 
 This is the document for the final project  ***Pixel-level domain adaptation: A study case on generating parking-slot image samples*** of Course Computer Vision (42029401), School of Software Engineering, Tongji University.
 
-Unity Scenes are created by @[Pomevak](https://github.com/Pomevak) & @[Mei Luo](https://github.com/sukamay)
+Unity Scenes are created by @[Mei Luo](https://github.com/sukamay) & @[Pomevak](https://github.com/Pomevak) 
 
 # 1. How to run this project
 
@@ -10,7 +10,7 @@ Unity Scenes are created by @[Pomevak](https://github.com/Pomevak) & @[Mei Luo](
 
 You can download our generated dataset:
 
-Part1: https://pan.baidu.com/s/1kgIA_R4ZqZ7al9UdPX_Cyg , password: mbmp (539M)
+Part1: https://pan.baidu.com/s/18YWtrUbaAX6GILk9eA4-1w , password: t7ha (539M)
 
 Part2: https://pan.baidu.com/s/1k3Cp66aRIrW_m9EeW5tUUA (192M)
 
