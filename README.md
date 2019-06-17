@@ -2,7 +2,7 @@
 
 This is the document for the final project  ***Pixel-level domain adaptation: A study case on generating parking-slot image samples*** of Course Computer Vision (42029401), School of Software Engineering, Tongji University.
 
-Unity Scenes are created by @[Pomevak](https://github.com/Pomevak) & @Mei Luo
+Unity Scenes are created by @[Pomevak](https://github.com/Pomevak) & @[Mei Luo](https://github.com/sukamay)
 
 # 1. How to run this project
 
