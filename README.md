@@ -69,7 +69,7 @@ You can see the output sample at `./output/unity2real/sample_training`
 
 > 1. Develop a virtual parking-slot image generation system using Unity. Taking a real road image as the texture. Then, feed the texture into Unity. Your system is expected to create various parking-slot image samples by adjusting the lighting conditions, the trees, the objects nearby, and the  parking-lines.
 >
-> ![img](http://sse.tongji.edu.cn/linzhang/CV/Projects/virtualps.png)
+> ![img](./img/virtualps.png)
 >
 > 　
 >
