@@ -1,4 +1,4 @@
-# Computer Vision Final Project
+# Parking-Slot Image Generator
 
 Unity Scenes are created by @[Mei Luo](https://github.com/sukamay) & @[Pomevak](https://github.com/Pomevak) 
 
