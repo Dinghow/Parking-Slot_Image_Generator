@@ -1,5 +1,5 @@
 tensorflow-gpu==2.0.0-alpha0
-tensorflow-addons
+tensorflow-addons==0.3.1
 scikit-image
 oyaml
 tqdm
